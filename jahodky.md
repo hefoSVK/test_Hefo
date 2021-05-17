@@ -1,3 +1,5 @@
 - jablko
 - hruska
 - slivka
+- orech
+- ceresna
