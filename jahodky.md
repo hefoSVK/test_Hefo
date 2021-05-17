@@ -1,0 +1,3 @@
+- jablko
+- hruska
+- slivka
